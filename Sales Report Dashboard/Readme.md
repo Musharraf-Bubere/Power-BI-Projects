@@ -67,6 +67,6 @@ This repository contains an interactive **Sales Report Dashboard** created in **
 
 I am building my analytics portfolio and open to feedback, learning, and collaborations.
 
-[LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+[LinkedIn](https://www.linkedin.com/in/musharraf-bubere-46b34b2a6/) | [GitHub](https://github.com/Musharraf-Bubere)
 
 ---
