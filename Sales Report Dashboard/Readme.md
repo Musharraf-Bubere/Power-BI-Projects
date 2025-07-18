@@ -60,3 +60,13 @@ This repository contains an interactive **Sales Report Dashboard** created in **
 1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/sales-report-dashboard.git
+
+---
+
+## 🤝 **Connect with Me**
+
+I am building my analytics portfolio and open to feedback, learning, and collaborations.
+
+[LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+
+---
