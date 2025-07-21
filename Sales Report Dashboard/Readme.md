@@ -55,8 +55,10 @@ This repository contains an interactive **Sales Report Dashboard** created in **
 
 ---
 
-### 🛠️ **How to View**
+## 🤝 Connect
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/sales-report-dashboard.git
+If you like this project or want to discuss data analytics, Power BI, or HR analytics case studies:
+
+- **LinkedIn:** [https://www.linkedin.com/in/musharraf-bubere-46b34b2a6/]
+- **GitHub:** [https://github.com/Musharraf-Bubere]
+
