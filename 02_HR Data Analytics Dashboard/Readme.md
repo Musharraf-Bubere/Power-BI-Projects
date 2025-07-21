@@ -36,6 +36,7 @@ This Power BI project focuses on building an **HR Analytics Dashboard** to analy
 - **HR Analytics Data.pbix** – Power BI dashboard file.
 - **HR_Analytics.csv** – Dataset used in this project.
 - **HR_Analytics_Dashboard.png** – Final dashboard image preview.
+- **BG12.jpg** - Background Image Used.
 
 ---
 
@@ -75,8 +76,8 @@ This Power BI project focuses on building an **HR Analytics Dashboard** to analy
 
 If you like this project or want to discuss data analytics, Power BI, or HR analytics case studies:
 
-- **LinkedIn:** [Your LinkedIn Profile Link Here]
-- **GitHub:** [Your GitHub Profile Link Here]
+- **LinkedIn:** [https://www.linkedin.com/in/musharraf-bubere-46b34b2a6/]
+- **GitHub:** [https://github.com/Musharraf-Bubere]
 
 ---
 
